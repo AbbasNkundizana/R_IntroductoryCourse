@@ -47,9 +47,14 @@ print(paste("The sum is", sum))
 
 product <- numb1*numb2
 product
-paste("the productis", product)
+paste("the product is", product)
 
+quotient <- numb1/numb2
+quotient
+paste("the quotient is", quotient)
 
+#Data Type #### test commit
+#check if the commit is working fine 
 
 #Data Type ####
 
